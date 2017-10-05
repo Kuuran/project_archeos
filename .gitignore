@@ -1,2 +1,3 @@
 # ignore param files
+/cmake-build-debug
 /.idea
